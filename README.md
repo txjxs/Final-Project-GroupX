@@ -30,8 +30,8 @@ mkdir Individual-Final-Project-Report Code
 touch Code/mywork.py
 
 
-4.**When you are done:** Add, commit, and push your changes.
-    ```bash
+4. **When you are done:** Add, commit, and push your changes.
+ ```bash
     # Stage your changes
     git add .
 
