@@ -1,4 +1,4 @@
-# Final-Project-GroupX
+# Final-Project-Group3
 ## Repository Structure
 The repository is organized into the following main folders:
 - `/Group-Proposal` - Contains the final PDF for our group proposal.
