@@ -10,7 +10,7 @@
 
 * Tejas Nisar
 * Jasreen Kaur Mehta
-* Muhammad  Ismail Sarfaraz Sheik
+* Mohammed Ismail Sarfaraz Shaik
 
 ---
 
